@@ -1,0 +1,67 @@
+//
+### Version 2008 ###
+// Frequency: 3000 MHz
+//
+//Department of Electrical Enginerring,Imam Khomeini International University (IKIU), Qazvin, Iran
+//
+// Material name                         Num     Eps      Mue     Kappa      Rho        K       Red   Green   Blue
+//                                                                [s/m]    [kg/m^3]   [W/mK]   0-255 (optional)
+
+Skin                                      1    37.450301   1.0   1.740596    1109      0.37     255    224    189
+CSF/Cerebral Fluid                        2    65.390441   1.0   4.005432    1007      0.57     148    113    176
+Nerve/Spinal cord                         3    29.620365   1.0   1.329699    1850      0.51     197    146    145
+Bone/Skull                                4    11.065933   1.0   0.506251    1908      0.32     240    240    240
+Bone/Spine                                5    11.065933   1.0   0.506251    1908      0.32     240    240    240
+Bone/Dens of axis                         70   11.065933   1.0   0.506251    1908      0.32     240    240    240
+Bone/Jaw bone                             71   11.065933   1.0   0.506251    1908      0.32     240    240    240
+Gland/Parotid gland                       72   73.704476   1.0   1.170729    1048      0.51     137    118    143
+Muscle/Skeletal muscle                    9    52.057998   1.0   2.142141    1090      0.49     197    140    114
+Gland/Lacrimal glands                     74   57.561832   1.0   1.173633    1028      0.44     137    118    143
+CSF/Spinal canal                          75   65.390441   1.0   4.005432    1007      0.57     148    113    176
+Bone/Hard palate                          76   11.065933   1.0   0.506251    1908      0.32     240    240    240
+Cerebellum/Cerebellum                     77   43.895472   1.0   2.482210    1045      0.51     197    146    145
+Tongue                                    78   51.859251   1.0   2.237767    1090      0.49     231    158    169
+Air/Pharynx                               15   1.0000000   1.0   0.000000    1.00      0.03     150    150    150
+Bone/Horn of mandible                     81   11.065933   1.0   0.506251    1908      0.32     240    240    240
+Cartilage/Nasal septum                    82   37.605223   1.0   2.205077    1100      0.49     162    156    64
+White matter                              83   35.541280   1.0   1.510625    1041      0.48     125    125    125
+Air/Superior sagittal sinus               84   1.0000000   1.0   0.000000    1.00      0.03     150    150    150
+Cerebellum/Medulla oblongata              85   43.895472   1.0   2.482210    1045      0.51     197    146    145
+Fat/Fat                                   22   10.655308   1.0   0.344181    911       0.21     231    203    155
+Blood pool                                23   57.352960   1.0   3.049870    1050      0.52     183     0      4 
+Gray-Matter/Frontal lobes                 89   48.048811   1.0   2.218974    1045      0.55     100    100    100
+Bone/Bone marrow                          26   10.014244   1.0   0.561675    1029      0.28     150    150    150
+Cerebellum/Pones                          91   43.895472   1.0   2.482210    1045      0.51     197    146    145
+CSF/Third ventricle                       92   65.390441   1.0   4.005432    1007      0.57     148    113    176
+Cartilage/Cartilage                       30   37.605223   1.0   2.205077    1100      0.49     162    156    64
+Gray-Matter/Occipital lobes               95   48.048811   1.0   2.218974    1045      0.55     100    100    100
+Gray-Matter/Hippocampus                   96   48.048811   1.0   2.218974    1045      0.55     100    100    100
+Gland/Pituitary gland                     97   56.403207   1.0   2.441431    1050      0.52     137    118    143
+Fat/Fat                                   98   10.655308   1.0   0.344181    911       0.21     231    203    155
+Bone/Uncus (ear bones)                    99   11.065933   1.0   0.506251    1908      0.32     240    240    240
+Cartilage/Turbinates                      100  37.605223   1.0   2.205077    1100      0.49     162    156    64
+Gray-Matter/Caudate nucleus               101  48.048811   1.0   2.218974    1045      0.55     100    100    100
+Muscle/Zygoma                             102  52.057998   1.0   2.142141    1090      0.49     197    140    114
+Gray-Matter/Insula cortex                 103  48.048811   1.0   2.218974    1045      0.55     100    100    100
+Air/Sinuses (mounth cavity)               104  1.0000000   1.0   0.000000    1.00      0.03     150    150    150
+Gray-Matter/Putamen                       105  48.048811   1.0   2.218974    1045      0.55     100    100    100
+Nerve/Optic nerve                         106  29.620365   1.0   1.329699    1075      0.49     197    146    145
+Gray-Matter/Internal capsule              107  48.048811   1.0   2.218974    1045      0.55     100    100    100
+Gray-Matter/Septum pellucidium            108  48.048811   1.0   2.218974    1045      0.55     100    100    100
+Gray-Matter/Thalamus                      109  48.048811   1.0   2.218974    1045      0.55     100    100    100
+Eye/Eyeball                               110  51.859251   1.0   2.468295    1005      0.59     145    255    251
+Nerve/Corpus collosum                     111  29.620365   1.0   1.329699    1075      0.49     197    146    145
+Gray-Matter/Special region                112  48.048811   1.0   2.218974    1045      0.55     100    100    100
+Cerebral falx (Dura)                      113  41.340326   1.0   2.014975    1174      0.44
+Gray-Matter/Temporal lobes                114  48.048811   1.0   2.218974    1045      0.55     100    100    100
+CSF/Fourth ventricle                      115  65.390441   1.0   4.005432    1007      0.57     148    113    176
+Fat/Frontal portion eyes                  116  10.655308   1.0   0.344181    911       0.21     231    203    155
+Gray-Matter/Parietal lobes                117  48.048811   1.0   2.218974    1045      0.55     100    100    100
+Gray-Matter/Amygdala                      118  48.048811   1.0   2.218974    1045      0.55     100    100    100
+Eye/Eye                                   119  67.816988   1.0   2.955923    1005      0.59     145    255    251
+Gray-Matter/Globus pallidus               120  48.048811   1.0   2.218974    1045      0.55     100    100    100
+Eye/Lens                                  121  33.415578   1.0   1.387761    1076      0.43      0      0      0
+CSF/Cerebral aquaduct                     122  65.390441   1.0   4.005432    1007      0.57     148    113    176
+CSF/Lateral ventricles                    123  65.390441   1.0   4.005432    1007      0.57     148    113    176
+Gray-Matter/Prefrontal lobes              124  48.048811   1.0   2.218974    1045      0.55     100    100    100
+Bone/Teeth                                125  11.065933   1.0   0.506251    1908      0.32     240    240    240

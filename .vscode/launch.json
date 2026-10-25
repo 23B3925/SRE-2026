@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {"name": "0 Check setup", "type": "debugpy", "request": "launch", "program": "${workspaceFolder}/scripts/00_check_setup.py", "console": "integratedTerminal"},
+    {"name": "1 Audit real .s8p data", "type": "debugpy", "request": "launch", "program": "${workspaceFolder}/scripts/01_audit_real_data.py", "console": "integratedTerminal"},
+    {"name": "2 Reconstruct: severe (2 cases, ~4 min)", "type": "debugpy", "request": "launch", "program": "${workspaceFolder}/scripts/02_run_demo.py", "args": ["severe"], "console": "integratedTerminal"},
+    {"name": "2 Reconstruct: mild (2 cases, ~4 min)", "type": "debugpy", "request": "launch", "program": "${workspaceFolder}/scripts/02_run_demo.py", "args": ["mild"], "console": "integratedTerminal"},
+    {"name": "3 Presentation view (instant)", "type": "debugpy", "request": "launch", "program": "${workspaceFolder}/scripts/06_present.py", "console": "integratedTerminal"}
+  ]
+}

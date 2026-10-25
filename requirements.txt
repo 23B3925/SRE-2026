@@ -1,0 +1,6 @@
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+scikit-image>=0.22
+# optional, only for scripts/04_train_pix2pix.py and the Pix2pix part of 05_evaluate.py:
+# torch

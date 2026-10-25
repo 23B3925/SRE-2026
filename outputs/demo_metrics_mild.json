@@ -1,0 +1,46 @@
+{
+ "mild_part1": {
+  "severity": "mild",
+  "part": 1,
+  "dr_db": 100.0,
+  "freqs": [
+   3.0,
+   3.1,
+   3.2,
+   3.3,
+   3.4,
+   3.5
+  ],
+  "true_peak_deps": 17.397152,
+  "recon_peak_deps": 5.852825030840184,
+  "centroid_err_mm": 59.4288903737373,
+  "iou_halfmax": 7.407407352537723e-09,
+  "ssim_composite": 0.9857288728790236,
+  "ssim_healthy_only": 0.996242047435803,
+  "apk": "clear",
+  "misfit": 0.7166771477403193,
+  "seconds": 114.1899847984314
+ },
+ "mild_part2": {
+  "severity": "mild",
+  "part": 2,
+  "dr_db": 100.0,
+  "freqs": [
+   3.0,
+   3.1,
+   3.2,
+   3.3,
+   3.4,
+   3.5
+  ],
+  "true_peak_deps": 17.397152,
+  "recon_peak_deps": 7.202090804354514,
+  "centroid_err_mm": 11.587014046467322,
+  "iou_halfmax": 0.13513514292671042,
+  "ssim_composite": 0.9769349244707118,
+  "ssim_healthy_only": 0.9963907960983277,
+  "apk": "clear",
+  "misfit": 0.11534016760782355,
+  "seconds": 80.82951235771179
+ }
+}

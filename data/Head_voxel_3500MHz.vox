@@ -1,0 +1,21 @@
+[Version]
+1.0
+
+[Material]
+//f [MHz]         filename
+3500          Tissue_3.5GHz.txt
+
+[Background]
+0
+
+[Voxel]
+//type	nx	ny	nz	dx[mm]	dy[mm]	dz[mm]	offset	filename
+int8	256	256	128	1.1	1.1	1.4	0	Head_voxel.dat
+
+[Bitmap]
+front Head_voxel_frnt.bmp
+side Head_voxel_side.bmp
+
+[Bitmap]
+front Head_voxel_3500MHz_front.bmp
+side Head_voxel_3500MHz_side.bmp
